@@ -1,0 +1,43 @@
+SQLite format 3@  .8
+�	mv��	�
+�
+��}��Z�
+�
+"
+{	m�2EE�gtableinternal::changes::x_antibotinternal::changes::x_antibotCREATE TABLE 'internal::changes::x_antibot' (type TEXT, key TEXT, value TEXT, timestamp INTEGER, pid INTEGER)Wtablex_antibotx_antibotCREATE TABLE x_antibot (key text PRIMARY KEY, value text)1Eindexsqlite_autoindex_x_antibot_1x_antibot�)??�atableinternal::changes::x_antiinternal::changes::x_antiCREATE TABLE 'internal::changes::x_anti' (type TEXT, key TEXT, value TEXT, timestamp INTEGER, pid INTEGER)Nytablex_antix_anti
+CREATE TABLE x_anti (key text PRIMARY KEY, value text)+
+?indexsqlite_autoindex_x_anti_1x_anti�#;;�]tableinternal::changes::x_crinternal::changes::x_crCREATE TABLE 'internal::changes::x_cr' (type TEXT, key TEXT, value TEXT, timestamp INTEGER, pid INTEGER)H	utablex_crx_cr
+CREATE TABLE x_cr (key text PRIMARY KEY, value text)'
+;indexsqlite_autoindex_x_cr_1x_cr�#;;�]tableinternal::changes::chatinternal::changes::chat	CREATE TABLE 'internal::changes::chat' (type TEXT, key TEXT, value TEXT, timestamp INTEGER, pid INTEGER)HutablechatchatCREATE TABLE chat (key text PRIMARY KEY, value text)';indexsqlite_autoindex_chat_1chaty//�!tableinternal::autonuminternal::autonumCREATE TABLE 'internal::autonum' (enmap TEXT PRIMARY KEY, lastnum INTEGER)AU/indexsqlite_autoindex_internal::autonum_1internal::autonum�,AA�ctableinternal::changes::antibotinternal::changes::antibotCREATE TABLE 'internal::changes::antibot' (type TEXT, key TEXT, value TEXT, timestamp INTEGER, pid INTEGER)Q{tableantibotantibotCREATE TABLE antibot (key text PRIMARY KEY, value text)-Aindexsqlite_autoindex_antibot_1antibot
+���iC�����b=
+�
+�
+�
+�
+Z
+
+5��$*1+730935347638173707{"onoff":"Off"}$)1+736319044382359703{"onoff":"Off"}$$1+632160179709935616{"onoff":"Off"}#(1)698187457686011974{"onoff":"On"}$!1+264445053596991498{"onoff":"Off"}$ 1+724180459860393984{"onoff":"Off"}#1)732633799799603201{"onoff":"On"}$1+659389308314189825{"onoff":"Off"}$1+730930899817988138{"onoff":"Off"}$1+631070658704441344{"onoff":"Off"}#1)730688448213811213{"onoff":"On"}$1+724994074196574242{"onoff":"Off"}#1)729304199564754965{"onoff":"On"}$1+726748529925554179{"onoff":"Off"}#1)710842504886616114{"onoff":"On"}#
+1)720824390610190378{"onoff":"On"}$1+692478338895446059{"onoff":"Off"}$1+724381616671293474{"onoff":"Off"}$1+715605911309123614{"onoff":"Off"}$1+653572774127730690{"onoff":"Off"}#1)716427184239280219{"onoff":"On"}#1)672893984510574602{"onoff":"On"}
+�
+�L����`52��Icw���
+�z1730935347638173707*1736319044382359703)1632160179709935616$1698187457686011974(1264445053596991498!1724180459860393984 1732633799799603201165938930831418982517309308998179881381631070658704441344173068844821381121317249940741965742421729304199564754965172674852992555417917108425048866161141720824390610190378
+169247833889544605917243816166712934741672893984510574602171560591130912361416535727741277306901716427184239280219672893984510574602
+
+������x_antibot	x_antix_crchat
+antibot
+������
+x_antibot
+x_antix_crchat
+	antibot
+
+
+
+
+
+
+
+
+
+��#1)698187457686011974{"onoff":"On"}
+��1698187457686011974
+
